@@ -1,12 +1,3 @@
-:root {
-    --color-fondo: #F4F6F9;
-    --color-primario: #012e88;
-    --color-secundario: #b96f00;
-    --color-complementario: #008197;
-    --color-texto: #1A1A1A;
-    --fuente: 'Poppins', sans-serif;
-}
-
 .h1 {
     background-color: var(--color-primario);
     color: white;
