@@ -13,36 +13,18 @@ body {
     margin: 10px;
     padding: 10px;
 }
-h1 {
+.h1 {
     background-color: var(--color-primario);
     color: white;
     padding: 15px;
     border-radius: 5px;
     text-align: center;
 }
-table {
+.table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
     line-height: 30px;
-}
-tr:nth-child(even) {
-    border: var(--color-complementario);
-}
-a {
-    color: var(--color-complementario);
-    text-decoration: none;
-}
-a:hover {       
-    text-decoration: underline;
-}
-.button {
-    background-color: var(--color-secundario);
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
 }
 
 .tabla {
@@ -55,7 +37,7 @@ a:hover {
     padding: 8px;
     text-align: center;
 }
-header {
+.footer {
     background-color: var(--color-secundario);
     color: white;
     padding: 5px;
