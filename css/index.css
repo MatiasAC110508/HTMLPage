@@ -5,7 +5,7 @@
 .mision {
     display: flex;
     gap: 100px;
-    font-family: cursive;
+    font-family: sans-serif;
     justify-content: center;
 }
 .mision p {
