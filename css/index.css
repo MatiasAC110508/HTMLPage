@@ -8,6 +8,9 @@
     font-family: cursive;
     justify-content: center;
 }
+.mision p {
+    padding: 4px;
+}
 .mision article {
     height: 250px;
     text-align: center;
